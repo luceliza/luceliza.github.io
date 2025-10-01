@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mi Página Personal</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f8f9fa;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    header {
+      background: #1a73e8;
+      color: white;
+      text-align: center;
+      padding: 2rem 1rem;
+    }
+    h1 { margin: 0; }
+    main {
+      max-width: 700px;
+      margin: 2rem auto;
+      padding: 1rem;
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    a {
+      color: #1a73e8;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Hola, soy [Tu Nombre]</h1>
+    <p>Neurocientífica | Investigadora | Explorando el futuro digital</p>
+  </header>
+
+  <main>
+    <h2>Sobre mí</h2>
+    <p>
+      Estoy finalizando mi doctorado en neurociencia y me apasiona entender la relación 
+      entre biomarcadores, cognición y salud cerebral. 
+    </p>
+
+    <h2>Proyectos</h2>
+    <ul>
+      <li>📖 Artículo sobre GFAP y p-tau217</li>
+      <li>🧠 Investigación en demencias frontotemporales</li>
+      <li>🌍 Intervenciones digitales en salud</li>
+    </ul>
+
+    <h2>Contacto</h2>
+    <p>
+      ✉️ <a href="mailto:tu-email@gmail.com">tu-email@gmail.com</a><br>
+      🌐 <a href="https://www.linkedin.com/in/tu-perfil/" target="_blank">LinkedIn</a><br>
+      💻 <a href="https://github.com/tu-usuario" target="_blank">GitHub</a>
+    </p>
+  </main>
+
+  <footer>
+    © 2025 [Tu Nombre] - Construido con GitHub Pages
+  </footer>
+</body>
+</html>
