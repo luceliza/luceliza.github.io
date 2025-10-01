@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mi Página Personal</title>
+  <title>Elizabeth Lucía Valeriano Lorenzo</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -44,34 +44,36 @@
 </head>
 <body>
   <header>
-    <h1>Hola, soy [Tu Nombre]</h1>
-    <p>Neurocientífica | Investigadora | Explorando el futuro digital</p>
+    <h1>Hi, I am Lucía!</h1>
+    <p> Neuropsychologist and researcher with a strong interest in applied statistical methods and longitudinal designs </p>
   </header>
 
   <main>
     <h2>Sobre mí</h2>
     <p>
-      Estoy finalizando mi doctorado en neurociencia y me apasiona entender la relación 
-      entre biomarcadores, cognición y salud cerebral. 
+      I am finalizing my PhD in Research Methodology, and I am passionate about understanding the relationship 
+      between Alzheimer’s disease biomarkers, cognition, and brain health. 
+      I am currently part of the Clinical Platform at the Center for Research in Neurodegenerative Diseases (CIEN)
     </p>
 
     <h2>Proyectos</h2>
     <ul>
-      <li>📖 Artículo sobre GFAP y p-tau217</li>
-      <li>🧠 Investigación en demencias frontotemporales</li>
-      <li>🌍 Intervenciones digitales en salud</li>
+      <li>📖 Modulatory effect of plasma GFAP on the relationship between cognition and plasma p-tau217</li>
+      <li>🧠 Cognitive performance in elderly</li>
+      <li>🌍 Design fiction</li>
     </ul>
 
     <h2>Contacto</h2>
     <p>
-      ✉️ <a href="mailto:tu-email@gmail.com">tu-email@gmail.com</a><br>
+      ✉️ <a href="mailto:lvaleriano@fundacioncien.es">lvaleriano@fundacioncien.es</a><br>
       🌐 <a href="https://www.linkedin.com/in/tu-perfil/" target="_blank">LinkedIn</a><br>
-      💻 <a href="https://github.com/tu-usuario" target="_blank">GitHub</a>
+      💻 <a href="https://github.com/luceliza" target="_blank">GitHub</a>
     </p>
   </main>
 
   <footer>
-    © 2025 [Tu Nombre] - Construido con GitHub Pages
+    © 2025 [Lucia Valeriano] - Construido con GitHub Pages
   </footer>
 </body>
+
 </html>
